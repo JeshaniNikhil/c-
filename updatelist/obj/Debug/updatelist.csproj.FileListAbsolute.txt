@@ -1,0 +1,11 @@
+E:\c#\updatelist\bin\Debug\updatelist.exe.config
+E:\c#\updatelist\bin\Debug\updatelist.exe
+E:\c#\updatelist\bin\Debug\updatelist.pdb
+E:\c#\updatelist\obj\Debug\updatelist.csproj.AssemblyReference.cache
+E:\c#\updatelist\obj\Debug\updatelist.update.resources
+E:\c#\updatelist\obj\Debug\updatelist.Properties.Resources.resources
+E:\c#\updatelist\obj\Debug\updatelist.csproj.GenerateResource.cache
+E:\c#\updatelist\obj\Debug\updatelist.csproj.CoreCompileInputs.cache
+E:\c#\updatelist\obj\Debug\updatelist.exe
+E:\c#\updatelist\obj\Debug\updatelist.pdb
+E:\c#\updatelist\obj\Debug\updatelist.Form2.resources

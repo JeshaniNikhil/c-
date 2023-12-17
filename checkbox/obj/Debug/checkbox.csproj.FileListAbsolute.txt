@@ -1,0 +1,10 @@
+E:\c#\checkbox\bin\Debug\checkbox.exe.config
+E:\c#\checkbox\bin\Debug\checkbox.exe
+E:\c#\checkbox\bin\Debug\checkbox.pdb
+E:\c#\checkbox\obj\Debug\checkbox.csproj.AssemblyReference.cache
+E:\c#\checkbox\obj\Debug\checkbox.Form1.resources
+E:\c#\checkbox\obj\Debug\checkbox.Properties.Resources.resources
+E:\c#\checkbox\obj\Debug\checkbox.csproj.GenerateResource.cache
+E:\c#\checkbox\obj\Debug\checkbox.csproj.CoreCompileInputs.cache
+E:\c#\checkbox\obj\Debug\checkbox.exe
+E:\c#\checkbox\obj\Debug\checkbox.pdb

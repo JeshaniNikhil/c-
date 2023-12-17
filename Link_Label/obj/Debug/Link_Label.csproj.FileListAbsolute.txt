@@ -1,0 +1,11 @@
+E:\c#\Link_Label\bin\Debug\Link_Label.exe.config
+E:\c#\Link_Label\bin\Debug\Link_Label.exe
+E:\c#\Link_Label\bin\Debug\Link_Label.pdb
+E:\c#\Link_Label\obj\Debug\Link_Label.csproj.AssemblyReference.cache
+E:\c#\Link_Label\obj\Debug\Link_Label.Properties.Resources.resources
+E:\c#\Link_Label\obj\Debug\Link_Label.csproj.GenerateResource.cache
+E:\c#\Link_Label\obj\Debug\Link_Label.csproj.CoreCompileInputs.cache
+E:\c#\Link_Label\obj\Debug\Link_Label.exe
+E:\c#\Link_Label\obj\Debug\Link_Label.pdb
+E:\c#\Link_Label\obj\Debug\Link_Label.linklabel.resources
+E:\c#\Link_Label\obj\Debug\Link_Label.Form2.resources

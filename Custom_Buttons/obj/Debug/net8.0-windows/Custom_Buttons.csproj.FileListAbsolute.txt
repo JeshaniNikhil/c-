@@ -1,0 +1,16 @@
+E:\c#\Custom_Buttons\bin\Debug\net8.0-windows\Custom_Buttons.exe
+E:\c#\Custom_Buttons\bin\Debug\net8.0-windows\Custom_Buttons.deps.json
+E:\c#\Custom_Buttons\bin\Debug\net8.0-windows\Custom_Buttons.runtimeconfig.json
+E:\c#\Custom_Buttons\bin\Debug\net8.0-windows\Custom_Buttons.dll
+E:\c#\Custom_Buttons\bin\Debug\net8.0-windows\Custom_Buttons.pdb
+E:\c#\Custom_Buttons\obj\Debug\net8.0-windows\Custom_Buttons.csproj.GenerateResource.cache
+E:\c#\Custom_Buttons\obj\Debug\net8.0-windows\Custom_Buttons.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#\Custom_Buttons\obj\Debug\net8.0-windows\Custom_Buttons.AssemblyInfoInputs.cache
+E:\c#\Custom_Buttons\obj\Debug\net8.0-windows\Custom_Buttons.AssemblyInfo.cs
+E:\c#\Custom_Buttons\obj\Debug\net8.0-windows\Custom_Buttons.csproj.CoreCompileInputs.cache
+E:\c#\Custom_Buttons\obj\Debug\net8.0-windows\Custom_Buttons.dll
+E:\c#\Custom_Buttons\obj\Debug\net8.0-windows\refint\Custom_Buttons.dll
+E:\c#\Custom_Buttons\obj\Debug\net8.0-windows\Custom_Buttons.pdb
+E:\c#\Custom_Buttons\obj\Debug\net8.0-windows\Custom_Buttons.genruntimeconfig.cache
+E:\c#\Custom_Buttons\obj\Debug\net8.0-windows\ref\Custom_Buttons.dll
+E:\c#\Custom_Buttons\obj\Debug\net8.0-windows\Custom_Buttons.login.resources
