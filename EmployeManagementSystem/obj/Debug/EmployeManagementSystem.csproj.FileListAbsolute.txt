@@ -1,0 +1,10 @@
+E:\c#\EmployeManagementSystem\bin\Debug\EmployeManagementSystem.exe.config
+E:\c#\EmployeManagementSystem\bin\Debug\EmployeManagementSystem.exe
+E:\c#\EmployeManagementSystem\bin\Debug\EmployeManagementSystem.pdb
+E:\c#\EmployeManagementSystem\obj\Debug\EmployeManagementSystem.csproj.AssemblyReference.cache
+E:\c#\EmployeManagementSystem\obj\Debug\EmployeManagementSystem.empform.resources
+E:\c#\EmployeManagementSystem\obj\Debug\EmployeManagementSystem.Properties.Resources.resources
+E:\c#\EmployeManagementSystem\obj\Debug\EmployeManagementSystem.csproj.GenerateResource.cache
+E:\c#\EmployeManagementSystem\obj\Debug\EmployeManagementSystem.csproj.CoreCompileInputs.cache
+E:\c#\EmployeManagementSystem\obj\Debug\EmployeManagementSystem.exe
+E:\c#\EmployeManagementSystem\obj\Debug\EmployeManagementSystem.pdb
