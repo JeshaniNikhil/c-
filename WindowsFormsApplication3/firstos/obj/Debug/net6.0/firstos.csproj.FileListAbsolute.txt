@@ -1,0 +1,12 @@
+E:\c#\firstos\bin\Debug\net6.0\firstos.deps.json
+E:\c#\firstos\bin\Debug\net6.0\firstos.dll
+E:\c#\firstos\bin\Debug\net6.0\firstos.pdb
+E:\c#\firstos\obj\Debug\net6.0\firstos.csproj.AssemblyReference.cache
+E:\c#\firstos\obj\Debug\net6.0\firstos.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#\firstos\obj\Debug\net6.0\firstos.AssemblyInfoInputs.cache
+E:\c#\firstos\obj\Debug\net6.0\firstos.AssemblyInfo.cs
+E:\c#\firstos\obj\Debug\net6.0\firstos.csproj.CoreCompileInputs.cache
+E:\c#\firstos\obj\Debug\net6.0\firstos.dll
+E:\c#\firstos\obj\Debug\net6.0\refint\firstos.dll
+E:\c#\firstos\obj\Debug\net6.0\firstos.pdb
+E:\c#\firstos\obj\Debug\net6.0\ref\firstos.dll

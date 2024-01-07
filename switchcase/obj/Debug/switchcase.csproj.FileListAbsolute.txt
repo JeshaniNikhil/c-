@@ -1,0 +1,8 @@
+C:\hackerc#\ifelse\switchcase\bin\Debug\switchcase.exe.config
+C:\hackerc#\ifelse\switchcase\bin\Debug\switchcase.exe
+C:\hackerc#\ifelse\switchcase\bin\Debug\switchcase.pdb
+C:\hackerc#\ifelse\switchcase\obj\Debug\switchcase.csproj.AssemblyReference.cache
+C:\hackerc#\ifelse\switchcase\obj\Debug\switchcase.csproj.SuggestedBindingRedirects.cache
+C:\hackerc#\ifelse\switchcase\obj\Debug\switchcase.csproj.CoreCompileInputs.cache
+C:\hackerc#\ifelse\switchcase\obj\Debug\switchcase.exe
+C:\hackerc#\ifelse\switchcase\obj\Debug\switchcase.pdb

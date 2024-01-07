@@ -1,0 +1,15 @@
+C:\HackerJava\foreachloopjagedarrray\foreachloopjagedarrray\bin\Debug\net6.0\foreachloopjagedarrray.exe
+C:\HackerJava\foreachloopjagedarrray\foreachloopjagedarrray\bin\Debug\net6.0\foreachloopjagedarrray.deps.json
+C:\HackerJava\foreachloopjagedarrray\foreachloopjagedarrray\bin\Debug\net6.0\foreachloopjagedarrray.runtimeconfig.json
+C:\HackerJava\foreachloopjagedarrray\foreachloopjagedarrray\bin\Debug\net6.0\foreachloopjagedarrray.dll
+C:\HackerJava\foreachloopjagedarrray\foreachloopjagedarrray\bin\Debug\net6.0\foreachloopjagedarrray.pdb
+C:\HackerJava\foreachloopjagedarrray\foreachloopjagedarrray\obj\Debug\net6.0\foreachloopjagedarrray.csproj.AssemblyReference.cache
+C:\HackerJava\foreachloopjagedarrray\foreachloopjagedarrray\obj\Debug\net6.0\foreachloopjagedarrray.GeneratedMSBuildEditorConfig.editorconfig
+C:\HackerJava\foreachloopjagedarrray\foreachloopjagedarrray\obj\Debug\net6.0\foreachloopjagedarrray.AssemblyInfoInputs.cache
+C:\HackerJava\foreachloopjagedarrray\foreachloopjagedarrray\obj\Debug\net6.0\foreachloopjagedarrray.AssemblyInfo.cs
+C:\HackerJava\foreachloopjagedarrray\foreachloopjagedarrray\obj\Debug\net6.0\foreachloopjagedarrray.csproj.CoreCompileInputs.cache
+C:\HackerJava\foreachloopjagedarrray\foreachloopjagedarrray\obj\Debug\net6.0\foreachloopjagedarrray.dll
+C:\HackerJava\foreachloopjagedarrray\foreachloopjagedarrray\obj\Debug\net6.0\refint\foreachloopjagedarrray.dll
+C:\HackerJava\foreachloopjagedarrray\foreachloopjagedarrray\obj\Debug\net6.0\foreachloopjagedarrray.pdb
+C:\HackerJava\foreachloopjagedarrray\foreachloopjagedarrray\obj\Debug\net6.0\foreachloopjagedarrray.genruntimeconfig.cache
+C:\HackerJava\foreachloopjagedarrray\foreachloopjagedarrray\obj\Debug\net6.0\ref\foreachloopjagedarrray.dll

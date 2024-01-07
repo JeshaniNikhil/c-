@@ -1,0 +1,7 @@
+E:\c#\insertupdatedelete\obj\Debug\insertupdatedelete.csproj.AssemblyReference.cache
+E:\c#\insertupdatedelete\obj\Debug\insertupdatedelete.crudform.resources
+E:\c#\insertupdatedelete\obj\Debug\insertupdatedelete.Properties.Resources.resources
+E:\c#\insertupdatedelete\obj\Debug\insertupdatedelete.csproj.GenerateResource.cache
+E:\c#\insertupdatedelete\obj\Debug\insertupdatedelete.csproj.CoreCompileInputs.cache
+E:\c#\insertupdatedelete\obj\Debug\insertupdatedelete.form.resources
+E:\c#\insertupdatedelete\obj\Debug\insertupdatedelete.Form1.resources

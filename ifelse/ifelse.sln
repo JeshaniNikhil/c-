@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ifelse", "ifelse\ifelse.csproj", "{D628853E-1ED3-4892-A237-4416DF0B7784}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "switchcase", "switchcase\switchcase.csproj", "{BB0F42DE-A415-4315-A531-34C79888665B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D628853E-1ED3-4892-A237-4416DF0B7784}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D628853E-1ED3-4892-A237-4416DF0B7784}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D628853E-1ED3-4892-A237-4416DF0B7784}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D628853E-1ED3-4892-A237-4416DF0B7784}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB0F42DE-A415-4315-A531-34C79888665B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB0F42DE-A415-4315-A531-34C79888665B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB0F42DE-A415-4315-A531-34C79888665B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB0F42DE-A415-4315-A531-34C79888665B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F01A648-B7B1-403D-8BEF-49CA97916344}
+	EndGlobalSection
+EndGlobal

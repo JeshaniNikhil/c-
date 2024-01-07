@@ -1,0 +1,15 @@
+C:\HackerJava\array\array\bin\Debug\net7.0\array.exe
+C:\HackerJava\array\array\bin\Debug\net7.0\array.deps.json
+C:\HackerJava\array\array\bin\Debug\net7.0\array.runtimeconfig.json
+C:\HackerJava\array\array\bin\Debug\net7.0\array.dll
+C:\HackerJava\array\array\bin\Debug\net7.0\array.pdb
+C:\HackerJava\array\array\obj\Debug\net7.0\array.csproj.AssemblyReference.cache
+C:\HackerJava\array\array\obj\Debug\net7.0\array.GeneratedMSBuildEditorConfig.editorconfig
+C:\HackerJava\array\array\obj\Debug\net7.0\array.AssemblyInfoInputs.cache
+C:\HackerJava\array\array\obj\Debug\net7.0\array.AssemblyInfo.cs
+C:\HackerJava\array\array\obj\Debug\net7.0\array.csproj.CoreCompileInputs.cache
+C:\HackerJava\array\array\obj\Debug\net7.0\array.dll
+C:\HackerJava\array\array\obj\Debug\net7.0\refint\array.dll
+C:\HackerJava\array\array\obj\Debug\net7.0\array.pdb
+C:\HackerJava\array\array\obj\Debug\net7.0\array.genruntimeconfig.cache
+C:\HackerJava\array\array\obj\Debug\net7.0\ref\array.dll

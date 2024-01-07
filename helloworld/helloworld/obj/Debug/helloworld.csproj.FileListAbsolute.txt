@@ -1,0 +1,8 @@
+C:\hackerc#\helloworld\helloworld\bin\Debug\helloworld.exe.config
+C:\hackerc#\helloworld\helloworld\bin\Debug\helloworld.exe
+C:\hackerc#\helloworld\helloworld\bin\Debug\helloworld.pdb
+C:\hackerc#\helloworld\helloworld\obj\Debug\helloworld.csproj.AssemblyReference.cache
+C:\hackerc#\helloworld\helloworld\obj\Debug\helloworld.csproj.SuggestedBindingRedirects.cache
+C:\hackerc#\helloworld\helloworld\obj\Debug\helloworld.csproj.CoreCompileInputs.cache
+C:\hackerc#\helloworld\helloworld\obj\Debug\helloworld.exe
+C:\hackerc#\helloworld\helloworld\obj\Debug\helloworld.pdb

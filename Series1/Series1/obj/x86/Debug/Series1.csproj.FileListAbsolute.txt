@@ -1,0 +1,4 @@
+C:\Hackerc#\Series1\Series1\bin\Debug\Series1.exe
+C:\Hackerc#\Series1\Series1\bin\Debug\Series1.pdb
+C:\Hackerc#\Series1\Series1\obj\x86\Debug\Series1.exe
+C:\Hackerc#\Series1\Series1\obj\x86\Debug\Series1.pdb

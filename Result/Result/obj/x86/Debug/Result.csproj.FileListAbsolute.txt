@@ -1,0 +1,5 @@
+C:\Hackerc#\Result\Result\bin\Debug\Result.exe
+C:\Hackerc#\Result\Result\bin\Debug\Result.pdb
+C:\Hackerc#\Result\Result\obj\x86\Debug\Result.exe
+C:\Hackerc#\Result\Result\obj\x86\Debug\Result.pdb
+C:\Hackerc#\Result\Result\obj\x86\Debug\Result.csprojResolveAssemblyReference.cache

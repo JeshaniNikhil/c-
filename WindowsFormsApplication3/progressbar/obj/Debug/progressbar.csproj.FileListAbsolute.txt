@@ -1,0 +1,10 @@
+E:\c#\progressbar\bin\Debug\progressbar.exe.config
+E:\c#\progressbar\bin\Debug\progressbar.exe
+E:\c#\progressbar\bin\Debug\progressbar.pdb
+E:\c#\progressbar\obj\Debug\progressbar.csproj.AssemblyReference.cache
+E:\c#\progressbar\obj\Debug\progressbar.Form1.resources
+E:\c#\progressbar\obj\Debug\progressbar.Properties.Resources.resources
+E:\c#\progressbar\obj\Debug\progressbar.csproj.GenerateResource.cache
+E:\c#\progressbar\obj\Debug\progressbar.csproj.CoreCompileInputs.cache
+E:\c#\progressbar\obj\Debug\progressbar.exe
+E:\c#\progressbar\obj\Debug\progressbar.pdb

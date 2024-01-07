@@ -1,0 +1,8 @@
+C:\hackerc#\ifelse\ifelse\bin\Debug\ifelse.exe.config
+C:\hackerc#\ifelse\ifelse\bin\Debug\ifelse.exe
+C:\hackerc#\ifelse\ifelse\bin\Debug\ifelse.pdb
+C:\hackerc#\ifelse\ifelse\obj\Debug\ifelse.csproj.AssemblyReference.cache
+C:\hackerc#\ifelse\ifelse\obj\Debug\ifelse.csproj.SuggestedBindingRedirects.cache
+C:\hackerc#\ifelse\ifelse\obj\Debug\ifelse.csproj.CoreCompileInputs.cache
+C:\hackerc#\ifelse\ifelse\obj\Debug\ifelse.exe
+C:\hackerc#\ifelse\ifelse\obj\Debug\ifelse.pdb

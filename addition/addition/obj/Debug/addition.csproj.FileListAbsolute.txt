@@ -1,0 +1,8 @@
+C:\hackerc#\addition\addition\obj\Debug\addition.csproj.AssemblyReference.cache
+C:\hackerc#\addition\addition\obj\Debug\addition.csproj.SuggestedBindingRedirects.cache
+C:\hackerc#\addition\addition\obj\Debug\addition.csproj.CoreCompileInputs.cache
+C:\hackerc#\addition\addition\bin\Debug\addition.exe.config
+C:\hackerc#\addition\addition\bin\Debug\addition.exe
+C:\hackerc#\addition\addition\bin\Debug\addition.pdb
+C:\hackerc#\addition\addition\obj\Debug\addition.exe
+C:\hackerc#\addition\addition\obj\Debug\addition.pdb

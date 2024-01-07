@@ -1,0 +1,10 @@
+E:\c#\radio_button\bin\Debug\radio_button.exe.config
+E:\c#\radio_button\bin\Debug\radio_button.exe
+E:\c#\radio_button\bin\Debug\radio_button.pdb
+E:\c#\radio_button\obj\Debug\radio_button.csproj.AssemblyReference.cache
+E:\c#\radio_button\obj\Debug\radio_button.Form1.resources
+E:\c#\radio_button\obj\Debug\radio_button.Properties.Resources.resources
+E:\c#\radio_button\obj\Debug\radio_button.csproj.GenerateResource.cache
+E:\c#\radio_button\obj\Debug\radio_button.csproj.CoreCompileInputs.cache
+E:\c#\radio_button\obj\Debug\radio_button.exe
+E:\c#\radio_button\obj\Debug\radio_button.pdb
