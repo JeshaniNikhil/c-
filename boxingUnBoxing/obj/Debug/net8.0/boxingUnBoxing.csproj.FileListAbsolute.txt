@@ -1,0 +1,15 @@
+F:\git\c-sharp\boxingUnBoxing\bin\Debug\net8.0\boxingUnBoxing.exe
+F:\git\c-sharp\boxingUnBoxing\bin\Debug\net8.0\boxingUnBoxing.deps.json
+F:\git\c-sharp\boxingUnBoxing\bin\Debug\net8.0\boxingUnBoxing.runtimeconfig.json
+F:\git\c-sharp\boxingUnBoxing\bin\Debug\net8.0\boxingUnBoxing.dll
+F:\git\c-sharp\boxingUnBoxing\bin\Debug\net8.0\boxingUnBoxing.pdb
+F:\git\c-sharp\boxingUnBoxing\obj\Debug\net8.0\boxingUnBoxing.GeneratedMSBuildEditorConfig.editorconfig
+F:\git\c-sharp\boxingUnBoxing\obj\Debug\net8.0\boxingUnBoxing.AssemblyInfoInputs.cache
+F:\git\c-sharp\boxingUnBoxing\obj\Debug\net8.0\boxingUnBoxing.AssemblyInfo.cs
+F:\git\c-sharp\boxingUnBoxing\obj\Debug\net8.0\boxingUnBoxing.csproj.CoreCompileInputs.cache
+F:\git\c-sharp\boxingUnBoxing\obj\Debug\net8.0\boxingUnBoxing.sourcelink.json
+F:\git\c-sharp\boxingUnBoxing\obj\Debug\net8.0\boxingUnBoxing.dll
+F:\git\c-sharp\boxingUnBoxing\obj\Debug\net8.0\refint\boxingUnBoxing.dll
+F:\git\c-sharp\boxingUnBoxing\obj\Debug\net8.0\boxingUnBoxing.pdb
+F:\git\c-sharp\boxingUnBoxing\obj\Debug\net8.0\boxingUnBoxing.genruntimeconfig.cache
+F:\git\c-sharp\boxingUnBoxing\obj\Debug\net8.0\ref\boxingUnBoxing.dll

@@ -1,0 +1,10 @@
+E:\c#\checkboxtesting\bin\Debug\checkboxtesting.exe.config
+E:\c#\checkboxtesting\bin\Debug\checkboxtesting.exe
+E:\c#\checkboxtesting\bin\Debug\checkboxtesting.pdb
+E:\c#\checkboxtesting\obj\Debug\checkboxtesting.csproj.AssemblyReference.cache
+E:\c#\checkboxtesting\obj\Debug\checkboxtesting.Form1.resources
+E:\c#\checkboxtesting\obj\Debug\checkboxtesting.Properties.Resources.resources
+E:\c#\checkboxtesting\obj\Debug\checkboxtesting.csproj.GenerateResource.cache
+E:\c#\checkboxtesting\obj\Debug\checkboxtesting.csproj.CoreCompileInputs.cache
+E:\c#\checkboxtesting\obj\Debug\checkboxtesting.exe
+E:\c#\checkboxtesting\obj\Debug\checkboxtesting.pdb

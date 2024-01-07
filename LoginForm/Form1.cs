@@ -18,7 +18,6 @@ namespace LoginForm
         {
             InitializeComponent();
         }
-
         private void checkBox1_CheckedChanged(object sender, EventArgs e)
         {
             if(checkBox1.Checked == true) { 
@@ -29,7 +28,6 @@ namespace LoginForm
                 textBox2.UseSystemPasswordChar=true;
             }
         }
-
         private void button1_Click(object sender, EventArgs e)
         {
             if (textBox1.Text!="" && textBox2.Text!="")
@@ -86,6 +84,17 @@ namespace LoginForm
         private void login_Click(object sender, EventArgs e)
         {
 
+        }
+
+        private void groupBox1_Enter(object sender, EventArgs e)
+        {
+           
+        }
+        private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
+            Form2 obj = new Form2();
+            obj.Show();
+            this.Hide();
         }
     }
 }

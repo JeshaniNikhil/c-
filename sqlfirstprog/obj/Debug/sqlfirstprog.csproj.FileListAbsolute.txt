@@ -1,0 +1,12 @@
+E:\c#\sqlfirstprog\bin\Debug\bin\Debug\login.mdf
+E:\c#\sqlfirstprog\bin\Debug\bin\Debug\login_log.ldf
+E:\c#\sqlfirstprog\bin\Debug\sqlfirstprog.exe.config
+E:\c#\sqlfirstprog\bin\Debug\sqlfirstprog.exe
+E:\c#\sqlfirstprog\bin\Debug\sqlfirstprog.pdb
+E:\c#\sqlfirstprog\obj\Debug\sqlfirstprog.csproj.AssemblyReference.cache
+E:\c#\sqlfirstprog\obj\Debug\sqlfirstprog.Form1.resources
+E:\c#\sqlfirstprog\obj\Debug\sqlfirstprog.Properties.Resources.resources
+E:\c#\sqlfirstprog\obj\Debug\sqlfirstprog.csproj.GenerateResource.cache
+E:\c#\sqlfirstprog\obj\Debug\sqlfirstprog.csproj.CoreCompileInputs.cache
+E:\c#\sqlfirstprog\obj\Debug\sqlfirstprog.exe
+E:\c#\sqlfirstprog\obj\Debug\sqlfirstprog.pdb

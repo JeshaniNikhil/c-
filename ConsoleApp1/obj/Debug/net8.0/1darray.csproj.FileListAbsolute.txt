@@ -1,0 +1,15 @@
+F:\git\c-sharp\ConsoleApp1\bin\Debug\net8.0\1darray.exe
+F:\git\c-sharp\ConsoleApp1\bin\Debug\net8.0\1darray.deps.json
+F:\git\c-sharp\ConsoleApp1\bin\Debug\net8.0\1darray.runtimeconfig.json
+F:\git\c-sharp\ConsoleApp1\bin\Debug\net8.0\1darray.dll
+F:\git\c-sharp\ConsoleApp1\bin\Debug\net8.0\1darray.pdb
+F:\git\c-sharp\ConsoleApp1\obj\Debug\net8.0\1darray.GeneratedMSBuildEditorConfig.editorconfig
+F:\git\c-sharp\ConsoleApp1\obj\Debug\net8.0\1darray.AssemblyInfoInputs.cache
+F:\git\c-sharp\ConsoleApp1\obj\Debug\net8.0\1darray.AssemblyInfo.cs
+F:\git\c-sharp\ConsoleApp1\obj\Debug\net8.0\1darray.csproj.CoreCompileInputs.cache
+F:\git\c-sharp\ConsoleApp1\obj\Debug\net8.0\1darray.sourcelink.json
+F:\git\c-sharp\ConsoleApp1\obj\Debug\net8.0\1darray.dll
+F:\git\c-sharp\ConsoleApp1\obj\Debug\net8.0\refint\1darray.dll
+F:\git\c-sharp\ConsoleApp1\obj\Debug\net8.0\1darray.pdb
+F:\git\c-sharp\ConsoleApp1\obj\Debug\net8.0\1darray.genruntimeconfig.cache
+F:\git\c-sharp\ConsoleApp1\obj\Debug\net8.0\ref\1darray.dll

@@ -1,0 +1,10 @@
+E:\c#\StudentRegistration\bin\Release\StudentRegistration.exe.config
+E:\c#\StudentRegistration\bin\Release\StudentRegistration.exe
+E:\c#\StudentRegistration\bin\Release\StudentRegistration.pdb
+E:\c#\StudentRegistration\obj\Release\StudentRegistration.csproj.AssemblyReference.cache
+E:\c#\StudentRegistration\obj\Release\StudentRegistration.Form1.resources
+E:\c#\StudentRegistration\obj\Release\StudentRegistration.Properties.Resources.resources
+E:\c#\StudentRegistration\obj\Release\StudentRegistration.csproj.GenerateResource.cache
+E:\c#\StudentRegistration\obj\Release\StudentRegistration.csproj.CoreCompileInputs.cache
+E:\c#\StudentRegistration\obj\Release\StudentRegistration.exe
+E:\c#\StudentRegistration\obj\Release\StudentRegistration.pdb

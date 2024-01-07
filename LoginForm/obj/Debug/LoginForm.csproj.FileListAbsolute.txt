@@ -8,3 +8,4 @@ E:\c#\LoginForm\obj\Debug\LoginForm.csproj.GenerateResource.cache
 E:\c#\LoginForm\obj\Debug\LoginForm.csproj.CoreCompileInputs.cache
 E:\c#\LoginForm\obj\Debug\LoginForm.exe
 E:\c#\LoginForm\obj\Debug\LoginForm.pdb
+E:\c#\LoginForm\obj\Debug\LoginForm.Form2.resources
