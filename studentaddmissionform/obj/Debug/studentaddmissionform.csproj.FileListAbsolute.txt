@@ -1,0 +1,12 @@
+F:\git\c-sharp\studentaddmissionform\bin\Debug\studentaddmissionform.exe.config
+F:\git\c-sharp\studentaddmissionform\bin\Debug\studentaddmissionform.exe
+F:\git\c-sharp\studentaddmissionform\bin\Debug\studentaddmissionform.pdb
+F:\git\c-sharp\studentaddmissionform\obj\Debug\studentaddmissionform.csproj.AssemblyReference.cache
+F:\git\c-sharp\studentaddmissionform\obj\Debug\studentaddmissionform.Form1.resources
+F:\git\c-sharp\studentaddmissionform\obj\Debug\studentaddmissionform.Properties.Resources.resources
+F:\git\c-sharp\studentaddmissionform\obj\Debug\studentaddmissionform.csproj.GenerateResource.cache
+F:\git\c-sharp\studentaddmissionform\obj\Debug\studentaddmissionform.csproj.CoreCompileInputs.cache
+F:\git\c-sharp\studentaddmissionform\obj\Debug\studentaddmissionform.exe
+F:\git\c-sharp\studentaddmissionform\obj\Debug\studentaddmissionform.pdb
+F:\git\c-sharp\studentaddmissionform\bin\Debug\student.mdf
+F:\git\c-sharp\studentaddmissionform\bin\Debug\student_log.ldf

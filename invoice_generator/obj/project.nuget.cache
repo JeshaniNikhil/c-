@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "fC41M5Ketl5CxzWpbEzBikIqufBxw/tE3Ba4WO2IZQgVlva9piTtf9+V+MhzMe6DtrM5fozJ2q5dIyduRbiwEQ==",
+  "success": true,
+  "projectFilePath": "F:\\git\\c-sharp\\invoice_generator\\invoice_generator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\$_Hacker_$\\.nuget\\packages\\bouncycastle\\1.8.9\\bouncycastle.1.8.9.nupkg.sha512",
+    "C:\\Users\\$_Hacker_$\\.nuget\\packages\\itextsharp\\5.5.13.3\\itextsharp.5.5.13.3.nupkg.sha512",
+    "C:\\Users\\$_Hacker_$\\.nuget\\packages\\zxing.net\\0.16.9\\zxing.net.0.16.9.nupkg.sha512"
+  ],
+  "logs": []
+}

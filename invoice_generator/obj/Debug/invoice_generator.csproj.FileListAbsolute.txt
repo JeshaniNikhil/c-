@@ -1,0 +1,15 @@
+F:\git\c-sharp\invoice_generator\bin\Debug\invoice_generator.exe.config
+F:\git\c-sharp\invoice_generator\bin\Debug\invoice_generator.exe
+F:\git\c-sharp\invoice_generator\bin\Debug\invoice_generator.pdb
+F:\git\c-sharp\invoice_generator\obj\Debug\invoice_generator.csproj.AssemblyReference.cache
+F:\git\c-sharp\invoice_generator\obj\Debug\invoice_generator.Form1.resources
+F:\git\c-sharp\invoice_generator\obj\Debug\invoice_generator.Properties.Resources.resources
+F:\git\c-sharp\invoice_generator\obj\Debug\invoice_generator.csproj.GenerateResource.cache
+F:\git\c-sharp\invoice_generator\obj\Debug\invoice_generator.csproj.CoreCompileInputs.cache
+F:\git\c-sharp\invoice_generator\obj\Debug\invoice_generator.exe
+F:\git\c-sharp\invoice_generator\obj\Debug\invoice_generator.pdb
+F:\git\c-sharp\invoice_generator\bin\Debug\BouncyCastle.Crypto.dll
+F:\git\c-sharp\invoice_generator\bin\Debug\itextsharp.dll
+F:\git\c-sharp\invoice_generator\obj\Debug\invoice_generator.csproj.CopyComplete
+F:\git\c-sharp\invoice_generator\bin\Debug\zxing.dll
+F:\git\c-sharp\invoice_generator\bin\Debug\zxing.presentation.dll
