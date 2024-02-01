@@ -1,0 +1,13 @@
+F:\git\c-sharp\crudinsql\bin\Debug\bin\Debug\Database1.mdf
+F:\git\c-sharp\crudinsql\bin\Debug\bin\Debug\Database1_log.ldf
+F:\git\c-sharp\crudinsql\bin\Debug\crudinsql.exe.config
+F:\git\c-sharp\crudinsql\bin\Debug\crudinsql.exe
+F:\git\c-sharp\crudinsql\bin\Debug\crudinsql.pdb
+F:\git\c-sharp\crudinsql\obj\Debug\crudinsql.csproj.AssemblyReference.cache
+F:\git\c-sharp\crudinsql\obj\Debug\crudinsql.Form1.resources
+F:\git\c-sharp\crudinsql\obj\Debug\crudinsql.Properties.Resources.resources
+F:\git\c-sharp\crudinsql\obj\Debug\crudinsql.csproj.GenerateResource.cache
+F:\git\c-sharp\crudinsql\obj\Debug\crudinsql.csproj.CoreCompileInputs.cache
+F:\git\c-sharp\crudinsql\obj\Debug\crudinsql.exe
+F:\git\c-sharp\crudinsql\obj\Debug\crudinsql.pdb
+F:\git\c-sharp\crudinsql\obj\Debug\crudinsql.Form2.resources

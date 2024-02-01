@@ -393,20 +393,16 @@ namespace invoice_generator
                     grandTotal += cellValue; // Add the value to the grand total
                 }
             }
-
             // Move to the next line
             y += 20;
-
             // Display Grand Total
             e.Graphics.DrawString($"Grand Total: {grandTotal}", contentFont, Brushes.Black, new PointF(e.MarginBounds.Left, y));
-
             // Move to the next line
             y += 20;
 
             // Generate and display QR code for the invoice number
             var qrCode = GenerateQRCode(invoiceNumber);
             e.Graphics.DrawImage(qrCode, x, y);
-
             // Example method to generate QR code using ZXing library
             System.Drawing.Image GenerateQRCode(string data)
             {
@@ -417,12 +413,10 @@ namespace invoice_generator
                     Width = 100, // Adjust the width as needed
                     Height = 100, // Adjust the height as needed
                 };
-
                 Bitmap qrCodeBitmap = barcodeWriter.Write(data);
                 return qrCodeBitmap;
             }
         }
-
         private void cnm_KeyPress(object sender, KeyPressEventArgs e)
         {
             alpha(sender, e);
