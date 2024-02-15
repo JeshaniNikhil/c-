@@ -1,0 +1,13 @@
+F:\git\c-sharp\studentregistrationformwithimageuploading\bin\Debug\studentregistrationformwithimageuploading.exe.config
+F:\git\c-sharp\studentregistrationformwithimageuploading\bin\Debug\studentregistrationformwithimageuploading.exe
+F:\git\c-sharp\studentregistrationformwithimageuploading\bin\Debug\studentregistrationformwithimageuploading.pdb
+F:\git\c-sharp\studentregistrationformwithimageuploading\obj\Debug\studentregistrationformwithimageuploading.csproj.AssemblyReference.cache
+F:\git\c-sharp\studentregistrationformwithimageuploading\obj\Debug\studentregistrationformwithimageuploading.Form1.resources
+F:\git\c-sharp\studentregistrationformwithimageuploading\obj\Debug\studentregistrationformwithimageuploading.Properties.Resources.resources
+F:\git\c-sharp\studentregistrationformwithimageuploading\obj\Debug\studentregistrationformwithimageuploading.csproj.GenerateResource.cache
+F:\git\c-sharp\studentregistrationformwithimageuploading\obj\Debug\studentregistrationformwithimageuploading.csproj.CoreCompileInputs.cache
+F:\git\c-sharp\studentregistrationformwithimageuploading\obj\Debug\studentregistrationformwithimageuploading.exe
+F:\git\c-sharp\studentregistrationformwithimageuploading\obj\Debug\studentregistrationformwithimageuploading.pdb
+F:\git\c-sharp\studentregistrationformwithimageuploading\bin\Debug\bin\Debug\Database1.mdf
+F:\git\c-sharp\studentregistrationformwithimageuploading\bin\Debug\bin\Debug\Database1_log.ldf
+F:\git\c-sharp\studentregistrationformwithimageuploading\obj\Debug\studentregistrationformwithimageuploading.Resource1.resources

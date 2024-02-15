@@ -1,0 +1,12 @@
+F:\git\c-sharp\loginforminsql\bin\Debug\bin\Debug\Database1.mdf
+F:\git\c-sharp\loginforminsql\bin\Debug\bin\Debug\Database1_log.ldf
+F:\git\c-sharp\loginforminsql\bin\Debug\loginforminsql.exe.config
+F:\git\c-sharp\loginforminsql\bin\Debug\loginforminsql.exe
+F:\git\c-sharp\loginforminsql\bin\Debug\loginforminsql.pdb
+F:\git\c-sharp\loginforminsql\obj\Debug\loginforminsql.csproj.AssemblyReference.cache
+F:\git\c-sharp\loginforminsql\obj\Debug\loginforminsql.Form1.resources
+F:\git\c-sharp\loginforminsql\obj\Debug\loginforminsql.Properties.Resources.resources
+F:\git\c-sharp\loginforminsql\obj\Debug\loginforminsql.csproj.GenerateResource.cache
+F:\git\c-sharp\loginforminsql\obj\Debug\loginforminsql.csproj.CoreCompileInputs.cache
+F:\git\c-sharp\loginforminsql\obj\Debug\loginforminsql.exe
+F:\git\c-sharp\loginforminsql\obj\Debug\loginforminsql.pdb
