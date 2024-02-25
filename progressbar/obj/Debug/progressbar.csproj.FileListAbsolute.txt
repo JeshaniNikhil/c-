@@ -8,3 +8,14 @@ E:\c#\progressbar\obj\Debug\progressbar.csproj.GenerateResource.cache
 E:\c#\progressbar\obj\Debug\progressbar.csproj.CoreCompileInputs.cache
 E:\c#\progressbar\obj\Debug\progressbar.exe
 E:\c#\progressbar\obj\Debug\progressbar.pdb
+F:\git\c-sharp\progressbar\bin\Debug\progressbar.exe.config
+F:\git\c-sharp\progressbar\bin\Debug\progressbar.exe
+F:\git\c-sharp\progressbar\bin\Debug\progressbar.pdb
+F:\git\c-sharp\progressbar\obj\Debug\progressbar.csproj.AssemblyReference.cache
+F:\git\c-sharp\progressbar\obj\Debug\progressbar.Form1.resources
+F:\git\c-sharp\progressbar\obj\Debug\progressbar.Properties.Resources.resources
+F:\git\c-sharp\progressbar\obj\Debug\progressbar.csproj.GenerateResource.cache
+F:\git\c-sharp\progressbar\obj\Debug\progressbar.csproj.CoreCompileInputs.cache
+F:\git\c-sharp\progressbar\obj\Debug\progressbar.exe
+F:\git\c-sharp\progressbar\obj\Debug\progressbar.pdb
+F:\git\c-sharp\progressbar\obj\Debug\progressbar.Form2.resources

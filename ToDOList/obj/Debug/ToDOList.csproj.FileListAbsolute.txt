@@ -8,3 +8,13 @@ E:\c#\ToDOList\obj\Debug\ToDOList.csproj.GenerateResource.cache
 E:\c#\ToDOList\obj\Debug\ToDOList.csproj.CoreCompileInputs.cache
 E:\c#\ToDOList\obj\Debug\ToDOList.exe
 E:\c#\ToDOList\obj\Debug\ToDOList.pdb
+F:\git\c-sharp\ToDOList\bin\Debug\ToDOList.exe.config
+F:\git\c-sharp\ToDOList\bin\Debug\ToDOList.exe
+F:\git\c-sharp\ToDOList\bin\Debug\ToDOList.pdb
+F:\git\c-sharp\ToDOList\obj\Debug\ToDOList.csproj.AssemblyReference.cache
+F:\git\c-sharp\ToDOList\obj\Debug\ToDOList.Form1.resources
+F:\git\c-sharp\ToDOList\obj\Debug\ToDOList.Properties.Resources.resources
+F:\git\c-sharp\ToDOList\obj\Debug\ToDOList.csproj.GenerateResource.cache
+F:\git\c-sharp\ToDOList\obj\Debug\ToDOList.csproj.CoreCompileInputs.cache
+F:\git\c-sharp\ToDOList\obj\Debug\ToDOList.exe
+F:\git\c-sharp\ToDOList\obj\Debug\ToDOList.pdb

@@ -17,6 +17,7 @@ namespace crudinsql
         public Form2()
         {
             InitializeComponent();
+            viewfunc();
         }
 
         private void add_Click(object sender, EventArgs e)
@@ -71,7 +72,6 @@ namespace crudinsql
             date.Text = dataGridView1.SelectedRows[0].Cells[3].Value.ToString();
             salary.Text = dataGridView1.SelectedRows[0].Cells[4].Value.ToString();
         }
-
         private void update_Click(object sender, EventArgs e)
         {
             if (Notnullfunc() == true)
@@ -82,7 +82,6 @@ namespace crudinsql
                 da.Fill(dt);
                 MessageBox.Show("data upadated successfully", "information", MessageBoxButtons.OK, MessageBoxIcon.Information);
                 viewfunc();
-                MessageBox.Show("ID already exists. Please choose a unique ID.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
         }
         private bool IsIdUnique(string empId)
@@ -109,7 +108,7 @@ namespace crudinsql
             }
             else if (string.IsNullOrEmpty(dept.Text))
             {
-                MessageBox.Show("deparrtment is blank", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                MessageBox.Show("department is blank", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 return false;
             }
             else if (string.IsNullOrEmpty(salary.Text))
@@ -171,6 +170,10 @@ namespace crudinsql
         private void salary_KeyPress(object sender, KeyPressEventArgs e)
         {
             numeric(sender, e);
+        }
+        private void Form2_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

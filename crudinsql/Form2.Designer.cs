@@ -53,7 +53,7 @@
             this.Homepage.Font = new System.Drawing.Font("Microsoft Sans Serif", 25.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Homepage.Location = new System.Drawing.Point(621, 44);
             this.Homepage.Name = "Homepage";
-            this.Homepage.Size = new System.Drawing.Size(235, 52);
+            this.Homepage.Size = new System.Drawing.Size(233, 51);
             this.Homepage.TabIndex = 0;
             this.Homepage.Text = "Homepage";
             // 
@@ -224,10 +224,11 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.Homepage);
             this.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Margin = new System.Windows.Forms.Padding(6, 6, 6, 6);
+            this.Margin = new System.Windows.Forms.Padding(6);
             this.Name = "Form2";
             this.Text = "Form2";
             this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
+            this.Load += new System.EventHandler(this.Form2_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();

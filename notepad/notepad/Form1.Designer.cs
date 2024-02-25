@@ -206,8 +206,8 @@
             // 
             this.formatToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.fontToolStripMenuItem,
-            this.fontColorToolStripMenuItem,
-            this.backColorToolStripMenuItem});
+            this.backColorToolStripMenuItem,
+            this.fontColorToolStripMenuItem});
             this.formatToolStripMenuItem.Name = "formatToolStripMenuItem";
             this.formatToolStripMenuItem.Size = new System.Drawing.Size(100, 35);
             this.formatToolStripMenuItem.Text = "Format";
@@ -215,20 +215,23 @@
             // fontToolStripMenuItem
             // 
             this.fontToolStripMenuItem.Name = "fontToolStripMenuItem";
-            this.fontToolStripMenuItem.Size = new System.Drawing.Size(209, 36);
+            this.fontToolStripMenuItem.Size = new System.Drawing.Size(224, 36);
             this.fontToolStripMenuItem.Text = "Font";
+            this.fontToolStripMenuItem.Click += new System.EventHandler(this.fontToolStripMenuItem_Click);
             // 
             // fontColorToolStripMenuItem
             // 
             this.fontColorToolStripMenuItem.Name = "fontColorToolStripMenuItem";
-            this.fontColorToolStripMenuItem.Size = new System.Drawing.Size(209, 36);
+            this.fontColorToolStripMenuItem.Size = new System.Drawing.Size(224, 36);
             this.fontColorToolStripMenuItem.Text = "Font Color";
+            this.fontColorToolStripMenuItem.Click += new System.EventHandler(this.fontColorToolStripMenuItem_Click);
             // 
             // backColorToolStripMenuItem
             // 
             this.backColorToolStripMenuItem.Name = "backColorToolStripMenuItem";
-            this.backColorToolStripMenuItem.Size = new System.Drawing.Size(209, 36);
+            this.backColorToolStripMenuItem.Size = new System.Drawing.Size(224, 36);
             this.backColorToolStripMenuItem.Text = "Back Color";
+            this.backColorToolStripMenuItem.Click += new System.EventHandler(this.backColorToolStripMenuItem_Click);
             // 
             // helpToolStripMenuItem
             // 

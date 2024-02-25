@@ -81,5 +81,10 @@ namespace crudinsql
                 e.Handled = false;
             }
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
